@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Fix root structure for Esther Allure website"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/esther-allure.git
+git push -f origin main

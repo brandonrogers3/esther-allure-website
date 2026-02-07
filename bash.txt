@@ -1,0 +1,4 @@
+npx create-vite esther-allure --template react
+cd esther-allure
+npm install
+npm run dev
